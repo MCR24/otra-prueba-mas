@@ -1,2 +1,2 @@
 Este es mi repositorio de prueba
-esta línea se añadió al archivo de la nueva rama2
+esta línea se añadió al documeneto de la nueva rama2
